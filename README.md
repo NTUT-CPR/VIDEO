@@ -1,3 +1,3 @@
 # VIDEO
-This is the source code of the video coding project.
+This project has the source code of video coding with cloud.
 
